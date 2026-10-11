@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Portal Ring -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,18 A36,36 0 1,0 54,90 A36,36 0 1,0 54,18 Z"/>
+    <!-- Portal Inner Glow -->
+    <path
+        android:fillColor="#76FF03"
+        android:pathData="M54,23 A31,31 0 1,0 54,85 A31,31 0 1,0 54,23 Z"/>
+    <!-- Meeseeks Head -->
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M54,30 A24,24 0 1,0 54,78 A24,24 0 1,0 54,30 Z"/>
+    <!-- Orange Hair Tuft -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M52,24 C52,24 54,20 56,24 C57,26 55,29 53,29 Z"/>
+    <!-- Left Eye -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M44,50 A4,4 0 1,0 44,58 A4,4 0 1,0 44,50 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,51 A1.5,1.5 0 1,0 43,54 A1.5,1.5 0 1,0 43,51 Z"/>
+    <!-- Right Eye -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M64,50 A4,4 0 1,0 64,58 A4,4 0 1,0 64,50 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,51 A1.5,1.5 0 1,0 63,54 A1.5,1.5 0 1,0 63,51 Z"/>
+    <!-- Smile -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M46,64 Q54,72 62,64 Z"/>
+</vector>

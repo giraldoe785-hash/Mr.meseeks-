@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meeseeks Task Master</string>
+    <string name="channel_name">Alarmas Críticas de Mr. Meeseeks</string>
+    <string name="channel_description">Notificaciones y alarmas urgentes cuando las tareas están por vencer o han vencido</string>
+</resources>
